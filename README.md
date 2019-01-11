@@ -1,2 +1,2 @@
 # My web site
-ilyasmammadov.github.io - automatic!
+ilyasmammadov.github.io[*Ilyas Mammadov*]
