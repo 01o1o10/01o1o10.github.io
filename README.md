@@ -1,2 +1,2 @@
 # My web site
-ilyasmammadov.github.io[*Ilyas Mammadov*]
+ilyasmammadov.github.io[**Ilyas Mammadov**]
